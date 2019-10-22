@@ -12,6 +12,8 @@ namespace NinjaConsole
         static void Main(string[] args)
         {
             Activity.Track("Project Structure Created");
+
+            Activity.Track("Data Seeded");
         }
     }
 }
